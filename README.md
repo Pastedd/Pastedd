@@ -39,9 +39,6 @@ About Pasted (.Taylor)
 ### Connect
 
 <img src="https://img.shields.io/badge/.Taylor@0001-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
-
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool(https://www.youtube.com/channel/UCO24INQndS8cQwkJQ286nZQ))]([https://www.youtube.com/c/kyleschool](https://www.youtube.com/channel/UCO24INQndS8cQwkJQ286nZQ))
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCO24INQndS8cQwkJQ286nZQ)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 [![Gmail_Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rotozl83@gmail.com)](mailto:rotozl83@gmail.com)
