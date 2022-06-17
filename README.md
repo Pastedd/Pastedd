@@ -16,7 +16,7 @@ About Pasted (.Taylor)
 
 ### Interest
 
-- Play Game, Listen Music, Watch a Movie (Anime), Create Somthing.
+- Play Game, Listen to Music, Watch a Movie (Anime), Create Somthing.
 
 ### Skills
 
