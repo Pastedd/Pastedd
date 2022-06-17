@@ -12,7 +12,7 @@ About Pasted (.Taylor)
 
 ### Major
 
-- Algorithm, AI, Database, Embedded System, Automation, Computer Graphics, etc . . .
+- Algorithm, AI, Automation, Database, Embedded System, Computer Graphics, etc . . .
 
 ### Interest
 
