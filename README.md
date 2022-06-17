@@ -12,7 +12,7 @@ About Pasted (.Taylor)
 
 ### Major
 
-- Computer Structure, Data Structure, Operating System, AI, Database, Embedded System, Computer Graphics, etc ...
+- Algorithm, AI, Database, Embedded System, Computer Graphics, etc . . .
 
 ### Interest
 
