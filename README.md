@@ -2,7 +2,7 @@
 
 About Pasted (.Taylor)
 
-- Republic of Korea (South Korea) University in Computer Science Undergraduate. (20)
+- Republic of Korea (South Korea) University in Computer Engineering Undergraduate. (20)
 - Game/Content Development experienced.
 - Graphics Art/Design experienced.
 - Information Technology & Network Enginnering learning.
