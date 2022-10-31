@@ -9,10 +9,11 @@ About Pasted (.Taylor)
 - Embedded Systems (SoC/Verilog/VHDL) learning.
 - Computer Graphics learning.
 - AI (ML/DL) learning.
+- Blockchain learning.
 
 ### Major
 
-- Algorithm, AI, Blockchain, Database, Embedded System, Computer Graphics etc . . .
+- AI, Blockchain, Database, Embedded System, Computer Graphics etc . . .
 
 ### Interest
 
