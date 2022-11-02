@@ -5,7 +5,7 @@ About Pasted (.Taylor)
 - Republic of Korea (South Korea) University in Computer Engineering Undergraduate. (20)
 - Game/Content Development experienced. (Private Project)
 - Graphics Art/Design experienced.
-- Information Technology & Network Enginnering learning.
+- Information Security & Network Enginnering learning.
 - Embedded Systems (SoC/Verilog/VHDL) learning.
 - Computer Graphics learning.
 - AI (ML/DL) learning.
@@ -25,12 +25,9 @@ About Pasted (.Taylor)
 <img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=C%2B%2B&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/HTML-white?style=flat-square&logo=HTML5&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=CSS3&logoColor=black"/></a>
 
 <img src="https://img.shields.io/badge/Unreal Engine-white?style=flat-square&logo=Unreal Engine&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Unity-white?style=flat-square&logo=Unity&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Vulkan-white?style=flat-square&logo=Vulkan&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/OpenGL-white?style=flat-square&logo=OpenGL&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/.NET-white?style=flat-square&logo=.Net&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=black"/></a>
