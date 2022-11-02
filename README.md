@@ -11,20 +11,19 @@ About Pasted (.Taylor)
 - AI (ML/DL) learning.
 - Blockchain learning.
 
-### Major
+### Interest
 
 - AI, Blockchain, Database, Embedded System, Computer Graphics etc . . .
 
-### Interest
+### Hobbies
 
-- Play Game, Listen to Music, Watch a Movie (Anime), Create Somthing.
+- Playing Games, Listening to Music, Watching a Movie (Anime), Creating Somthing.
 
 ### Skills
 
 <img src="https://img.shields.io/badge/C-white?style=flat-square&logo=C&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=C%2B%2B&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/HTML-white?style=flat-square&logo=HTML5&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=CSS3&logoColor=black"/></a>
