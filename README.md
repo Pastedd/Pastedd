@@ -10,7 +10,7 @@ About Pasted (.Taylor)
 
 ### Interest
 
-- Game Development, Computer Graphics (3D Rendering), AI (ML, DL), Embedded Software etc . . .
+- Game Development, AI (ML, DL), Embedded Software, Computer Graphics (3D Rendering) etc . . .
 
 ### Hobbies
 
