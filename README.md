@@ -5,14 +5,12 @@ About Pasted (.Taylor)
 - Computer Engineering Undergraduate. (21)
 - Game/Content Development experienced. (Private Project)
 - Graphics Art/Design experienced.
-- Information Security & Reverse Enginnering learning.
-- Computer Graphics learning.
-- AI (ML/DL) learning.
-- Blockchain learning.
+- Information Security & Reverse Enginnering (assembly) learning.
+- Blockchain/Web3/Crypto learning.
 
 ### Interest
 
-- AI, Blockchain, Embedded System, Computer Graphics etc . . .
+- AI (ML, DL), Embedded Software, Computer Graphics etc . . .
 
 ### Hobbies
 
@@ -34,7 +32,7 @@ About Pasted (.Taylor)
 
 ### Connect
 
-<img src="https://img.shields.io/badge/.Taylor#0001-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pasted@0001-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCO24INQndS8cQwkJQ286nZQ)](https://www.youtube.com/channel/UCO24INQndS8cQwkJQ286nZQ)
 [![Tech blog Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://github.com/Pastedd/)](https://github.com/Pastedd/)
 [![Gmail_Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rotozl83@gmail.com)](mailto:rotozl83@gmail.com)
