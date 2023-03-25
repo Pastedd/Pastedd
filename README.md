@@ -9,7 +9,7 @@ About Pasted (.Taylor)
 
 ### Interest
 
-- Game Development, Blockchain, Computer Graphics (3D Rendering) etc . . .
+- Game Development, Computer Graphics (3D Rendering), Blockchain etc . . .
 
 ### Hobbies
 
