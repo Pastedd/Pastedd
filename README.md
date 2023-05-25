@@ -5,11 +5,11 @@ About Pasted (.Taylor)
 - Computer Engineering Undergraduate. (21)
 - Game/Content Development experienced. (Private Project)
 - Graphics Art/Design experienced.
-- Information Security & Reverse Enginnering (assembly) learning.
+- Information Security & Reverse Engineering (assembly) learning.
 
 ### Interest
 
-- Game Development, Blockchain/Crypto, Computer Graphics (3D Rendering) etc . . .
+- Game Development, Blockchain/Crypto, Security, Computer Graphics (3D Rendering) etc . . .
 
 ### Hobbies
 
